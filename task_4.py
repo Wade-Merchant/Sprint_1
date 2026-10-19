@@ -5,3 +5,4 @@ completed_tasks.append(new_tasks.pop(new_tasks.index('task_005')))
 new_tasks.remove('task_007')
 
 print(new_tasks[-1])
+

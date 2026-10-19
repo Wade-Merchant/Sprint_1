@@ -12,3 +12,4 @@ for time_value in time_str.split(','):
             total_minutes += int(unit.replace('s', '')) // 60
 
 print('Всего минут:', total_minutes)
+
